@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Seçki Statistikası və Qrafik Sistemi\PSQS\PSQS\bin\Debug\PSQS.exe.config
+C:\Users\HP\Desktop\Seçki Statistikası və Qrafik Sistemi\PSQS\PSQS\bin\Debug\PSQS.exe
+C:\Users\HP\Desktop\Seçki Statistikası və Qrafik Sistemi\PSQS\PSQS\bin\Debug\PSQS.pdb
+C:\Users\HP\Desktop\Seçki Statistikası və Qrafik Sistemi\PSQS\PSQS\obj\Debug\PSQS.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Seçki Statistikası və Qrafik Sistemi\PSQS\PSQS\obj\Debug\PSQS.DQSS.resources
+C:\Users\HP\Desktop\Seçki Statistikası və Qrafik Sistemi\PSQS\PSQS\obj\Debug\PSQS.FrmQrafikler.resources
+C:\Users\HP\Desktop\Seçki Statistikası və Qrafik Sistemi\PSQS\PSQS\obj\Debug\PSQS.Properties.Resources.resources
+C:\Users\HP\Desktop\Seçki Statistikası və Qrafik Sistemi\PSQS\PSQS\obj\Debug\PSQS.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Seçki Statistikası və Qrafik Sistemi\PSQS\PSQS\obj\Debug\PSQS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Seçki Statistikası və Qrafik Sistemi\PSQS\PSQS\obj\Debug\PSQS.exe
+C:\Users\HP\Desktop\Seçki Statistikası və Qrafik Sistemi\PSQS\PSQS\obj\Debug\PSQS.pdb
