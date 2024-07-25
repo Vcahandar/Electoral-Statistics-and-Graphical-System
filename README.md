@@ -1,4 +1,4 @@
-# Electoral Statistics and Charting System
+# Electoral Statistics and Graphical System
 This project is a Windows Forms App (.Net Framework) application that provides effective management and visualization of election results. It helps to better understand and analyze the outcomes of the election process.
 
 ## Main Features
